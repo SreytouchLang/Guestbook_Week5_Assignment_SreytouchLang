@@ -23,10 +23,5 @@ How to run (local XAMPP / MAMP / LAMP):
    - http://localhost/guestbook/gb-enter.php   (enter data)
    - http://localhost/guestbook/gb-show.php    (view output)
    - http://localhost/guestbook/gb-admin.php   (delete/edit)
-5. For screenshots required by the assignment: take screenshots of the pages in your browser after completing the steps.
 
-Academic integrity:
-- I cannot assist with requests that attempt to bypass detection or to submit work dishonestly.
-- Use these files to learn, run locally, and submit your own screenshots and code.
-
-If you want, I can walk you through running this on XAMPP and capturing the screenshots step-by-step.
+Thank you!!
