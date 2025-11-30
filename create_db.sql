@@ -1,6 +1,6 @@
 -- create_db.sql
-CREATE DATABASE IF NOT EXISTS cote_guestbook DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
-USE cote_guestbook;
+CREATE DATABASE IF NOT EXISTS guestbook DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+USE guestbook;
 CREATE TABLE IF NOT EXISTS guestbook (
     id INT AUTO_INCREMENT PRIMARY KEY,
     name VARCHAR(100) NOT NULL,
